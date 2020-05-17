@@ -1,0 +1,4 @@
+user:jj
+password:mamj961107
+host:localhost
+database:agenda_db
